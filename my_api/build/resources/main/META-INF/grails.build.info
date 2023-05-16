@@ -1,0 +1,6 @@
+#Tue, 16 May 2023 12:59:31 +0545
+
+info.app.version=0.1
+info.app.name=my_api
+grails.env=development
+info.app.grailsVersion=5.3.2
